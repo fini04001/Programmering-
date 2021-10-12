@@ -1,1 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T13:29:26.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" version="15.5.1" etag="zQjyghjuywPD-tTBge5F" type="github"><diagram id="pdsaUZk75oMJBHx8bWhI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-12T13:51:20.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="tPoYHuyYKzF1ffepdy6s" version="15.5.1" type="github">
+  <diagram id="pdsaUZk75oMJBHx8bWhI" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbYibsnLTiIGeaRZH1bK-1" target="HbYibsnLTiIGeaRZH1bK-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbYibsnLTiIGeaRZH1bK-2" target="HbYibsnLTiIGeaRZH1bK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbYibsnLTiIGeaRZH1bK-2" target="HbYibsnLTiIGeaRZH1bK-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="502" y="290" />
+              <mxPoint x="560" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-2" value="Utmatning&lt;br&gt;&quot;Gissa heltalet mellan 1-100&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="230" width="196" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbYibsnLTiIGeaRZH1bK-5" target="HbYibsnLTiIGeaRZH1bK-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HbYibsnLTiIGeaRZH1bK-5" target="HbYibsnLTiIGeaRZH1bK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-5" value="Läs av om Variabeln är = &lt;i&gt;Slump&lt;/i&gt;&amp;nbsp;talet&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="112" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbYibsnLTiIGeaRZH1bK-13" target="HbYibsnLTiIGeaRZH1bK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-13" value="Inmatning&lt;br&gt;Heltalet i variabel form" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HbYibsnLTiIGeaRZH1bK-16" target="HbYibsnLTiIGeaRZH1bK-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-16" value="Utmatning&lt;br&gt;&quot;grattis du har vunnit&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-17" value="Nej" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-18" value="Ja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HbYibsnLTiIGeaRZH1bK-20" target="HbYibsnLTiIGeaRZH1bK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-20" value="Lägger ett &lt;i&gt;Slump&lt;/i&gt;&amp;nbsp;tal mellan 1 - 100 i minne som ska gissas." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="356" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-21" value="Stop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-22" value="Utmatning&lt;br&gt;Ge spelare tips beroende på om talet var för litet eller för stort" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="440" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HbYibsnLTiIGeaRZH1bK-22" target="HbYibsnLTiIGeaRZH1bK-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="370" as="sourcePoint" />
+            <mxPoint x="120" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HbYibsnLTiIGeaRZH1bK-37" target="HbYibsnLTiIGeaRZH1bK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HbYibsnLTiIGeaRZH1bK-37" value="Lägg resten I en loop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
